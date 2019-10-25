@@ -6,5 +6,8 @@ Life before Death
 Strength before Weakness
 Journey before Destination
 
+## Second oath
+I will protect those who cannot protect themselves
+
 ## Third Oath of the Wind Runners
 I will protect even those I hate, so long as it is right.
