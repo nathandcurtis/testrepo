@@ -8,6 +8,6 @@ Journey before Destination
 
 ## Second oath
 I will protect those who cannot protect themselves
-... Even if I dont like them...
 
-
+## Third Oath of the Wind Runners
+I will protect even those I hate, so long as it is right.
